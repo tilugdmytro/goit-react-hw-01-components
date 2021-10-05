@@ -1,0 +1,21 @@
+.transactionHistory {
+  border-collapse: collapse;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.title {
+  padding: 15px 0;
+  background-color: grey;
+  color: #fff;
+  border: 1px solid LightGray;
+  text-transform: uppercase;
+}
+
+.item {
+  border: 1px solid LightGray;
+  width: 300px;
+  padding: 10px;
+  text-transform: capitalize;
+}
